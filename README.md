@@ -1,2 +1,2 @@
 # Generic-Pipers-Society-Website
-A generic pipers' society website that I'm creating as a side project to practice HTML and CSS
+A generic pipers' society website that implements some basic HTML and CSS concepts. 
